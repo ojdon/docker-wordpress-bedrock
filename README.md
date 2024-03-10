@@ -1,4 +1,4 @@
-# Project Shepherd
+# Bedrock WordPress Docker Setup
 
 ## Installation
 
